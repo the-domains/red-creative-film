@@ -1,6 +1,6 @@
 name: RED CREATIVE FILM
 favicon: null
-layout_spectrum: 0.75452
+layout_spectrum: 1
 typography_spectrum: 0.4752372861839831
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#fff8ff'
   brandStrength: 0.0616707808803767
   lightness: 0.8597058656159788
-  saturation: 0.23186815879307687
-  rhythmicContrast: 0.9681479928549379
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
