@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RED CREATIVE FILM]]></title>
         <description><![CDATA[RED CREATIVE FILM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/red-creative-film/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 11:24:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 11:24:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/red-creative-film/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bec38cf3-968d-47f2-9e2f-c254faf68257.jpg">]]></description>
+            <link>https://thegrid.ai/red-creative-film/lauren/index.html</link>
+            <guid isPermaLink="false">109e4c5b-d39c-4a1b-85f2-1a9031187b3f</guid>
+            <pubDate>Mon, 20 Jun 2016 11:24:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0ab55d2-9081-439d-8e63-48019fd872f1.jpg">]]></description>
-            <link>undefinedsq2/index.html</link>
+            <link>https://thegrid.ai/red-creative-film/sq2/index.html</link>
             <guid isPermaLink="false">385cc16c-6b0c-4db6-85d3-61b61db3ef89</guid>
             <pubDate>Mon, 20 Jun 2016 11:24:40 GMT</pubDate>
         </item>
